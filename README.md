@@ -4,4 +4,4 @@ With the rise of self-driving cars, there is a need to accurately detect the env
 
 The dataset used consists of traffic signs from German roads: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
-This model uses 2 convolutoin layers and 2 dropoutlayers to achieve a testing accuracy of 94.5%
+This model uses a pair of convolution and pooling layers each, and 2 dropoutlayers to achieve a testing accuracy of 94.5%
